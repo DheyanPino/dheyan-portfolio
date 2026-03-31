@@ -1,7 +1,7 @@
 import React from "react";
 import { type Project } from "@/constants/project";
 import { Globe, ExternalLink } from "@/components/icons";
-import { Button } from "@/ui/button";
+import { Button } from "@/components/ui/button";
 
 export const ProjectCard: React.FC<Project> = ({
   title,
