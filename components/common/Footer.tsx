@@ -40,9 +40,6 @@ export const Footer = () => (
         <h4 className="text-lg font-bold text-black">Connect</h4>
         <ul className="space-y-2 text-gray-600">
           <li className="flex items-center space-x-2">
-            <Link href="#" className="hover:text-black transition-colors">LinkedIn</Link>
-          </li>
-          <li className="flex items-center space-x-2">
             <Link href="#" className="hover:text-black transition-colors">GitHub</Link>
           </li>
           <li className="flex items-center space-x-2">
